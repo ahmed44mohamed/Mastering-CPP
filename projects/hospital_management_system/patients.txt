@@ -1,0 +1,18 @@
+Name: Ahmed Mohamed
+ID: 1
+Age: 19
+Time spent in hospital: 0
+Patient health:  Sick
+---------------------------
+Name: Bassam Maged
+ID: 2
+Age: 22
+Time spent in hospital: 6
+Patient health:  Good
+---------------------------
+Name: Moaz El sayed
+ID: 3
+Age: 20
+Time spent in hospital: 0
+Patient health:  Sick
+---------------------------
