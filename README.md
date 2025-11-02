@@ -1,2 +1,2 @@
 # mastering_c++
-This repository is a road to learn C++.
+This repository is my road to learn C++.
